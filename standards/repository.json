@@ -102,5 +102,13 @@
     "description": "ISO/IEC 27001:2022 (ISO 27001) is an international standard that helps organizations manage the security of their information assets. It provides a management framework for implementing an ISMS (information security management system) to ensure the confidentiality, integrity, and availability of all corporate data (such as financial information, intellectual property, employee details or information managed by third parties).",
     "version": "2022",
     "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/ISO-27001-2022.json"
+  },
+  {
+    "name": "CJIS Security Policy v6.0",
+    "code": "CJIS-v6",
+    "authority": "FBI CJIS",
+    "description": "The CJIS Security Policy provides Criminal Justice Agencies (CJA) and Noncriminal Justice Agencies (NCJA) with a minimum set of security requirements for access to FBI CJIS Division systems and information. The policy covers the life cycle of criminal justice information (CJI), from creation and collection through dissemination and destruction. The requirements are intended to ensure the protection, confidentiality, integrity, and availability of CJI regardless of whether the information is at rest or in transit.",
+    "version": "6",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CJIS-v6.json"
   }
 ]

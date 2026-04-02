@@ -40,14 +40,6 @@
     "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/OpenGRC-1.0.json"
   },
   {
-    "name": "Trust Services Criteria (TSC) 2017",
-    "code": "TSC-2017",
-    "authority": "AICPA",
-    "description": "The Trust Services Criteria (TSC) 2017 are a set of professional attestation and advisory services based on a core set of principles and criteria that address the risks and opportunities of IT-enabled systems and privacy programs. The TSC 2017 are used by practitioners to evaluate and report on controls at service organizations that provide services to user entities when those controls are likely to be relevant to user entities' internal control over financial reporting.",
-    "version": "2017",
-    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/TSC2017.json"
-  },
-  {
     "name": "CMMC 2.0 (L2)",
     "code": "CMMC 2.0 - Level 2",
     "authority": "DoD",
@@ -70,38 +62,6 @@
     "description": "This document recommends the Secure Software Development Framework (SSDF) – a core set of high-level secure software development practices that can be integrated into each SDLC implementation. Following these practices should help software producers reduce the number of vulnerabilities in released software, mitigate the potential impact of the exploitation of undetected or unaddressed vulnerabilities, and address the root causes of vulnerabilities to prevent future recurrences.",
     "version": "1.1",
     "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/800-218.json"
-  },
-  {
-    "name": "CIS Critical Security Controls - IG1",
-    "code": "CIS-CSC-IG1",
-    "authority": "Center for Internet Security (CIS)",
-    "description": "CIS Controls IG1 are basic cyber hygiene and represent essential cyber defense readiness for all enterprises.",
-    "version": "8.1",
-    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CIS-CSC-IG1.json"
-  },
-  {
-    "name": "CIS Critical Security Controls - IG2",
-    "code": "CIS-CSC-IG2",
-    "authority": "Center for Internet Security (CIS)",
-    "description": "CIS Controls IG2 build upon IG1 and are for enterprises with sensitive client or operational information, requiring additional security.",
-    "version": "8.1",
-    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CIS-CSC-IG2.json"
-  },
-  {
-    "name": "CIS Critical Security Controls - IG3",
-    "code": "CIS-CSC-IG3",
-    "authority": "Center for Internet Security (CIS)",
-    "description": "CIS Controls IG3 are for enterprises with critical infrastructure or assets, requiring the most comprehensive security measures.",
-    "version": "8.1",
-    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CIS-CSC-IG3.json"
-  },
-  {
-    "name": "ISO 27001:2022",
-    "code": "ISO-27001-2022",
-    "authority": "International Standards Organization, International Electrotechnical Commission",
-    "description": "ISO/IEC 27001:2022 (ISO 27001) is an international standard that helps organizations manage the security of their information assets. It provides a management framework for implementing an ISMS (information security management system) to ensure the confidentiality, integrity, and availability of all corporate data (such as financial information, intellectual property, employee details or information managed by third parties).",
-    "version": "2022",
-    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/ISO-27001-2022.json"
   },
   {
     "name": "CJIS Security Policy v6.0",

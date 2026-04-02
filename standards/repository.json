@@ -70,5 +70,53 @@
     "description": "The CJIS Security Policy provides Criminal Justice Agencies (CJA) and Noncriminal Justice Agencies (NCJA) with a minimum set of security requirements for access to FBI CJIS Division systems and information. The policy covers the life cycle of criminal justice information (CJI), from creation and collection through dissemination and destruction. The requirements are intended to ensure the protection, confidentiality, integrity, and availability of CJI regardless of whether the information is at rest or in transit.",
     "version": "6",
     "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CJIS-v6.json"
+  },
+  {
+    "name": "OWASP Top 10 (2021)",
+    "code": "OWASP-Top10-2021",
+    "authority": "OWASP",
+    "description": "The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications. The 2021 edition includes three new categories, four categories with naming and scoping changes, and some consolidation from the 2017 edition.",
+    "version": "2021",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/OWASP-Top10-2021.json"
+  },
+  {
+    "name": "OWASP Application Security Verification Standard (ASVS) 4.0.3",
+    "code": "ASVS-4.0.3",
+    "authority": "OWASP",
+    "description": "The OWASP ASVS provides a basis for testing web application technical security controls and a list of requirements for secure development. It defines three verification levels (L1, L2, L3) covering architecture, authentication, session management, access control, validation, cryptography, error handling, data protection, communication, and configuration.",
+    "version": "4.0.3",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/ASVS-4.0.3.json"
+  },
+  {
+    "name": "OWASP Mobile Application Security Verification Standard (MASVS) 2.0",
+    "code": "OWASP-MASVS-2.0",
+    "authority": "OWASP",
+    "description": "The OWASP MASVS is a comprehensive security standard for mobile app security covering data storage, cryptography, authentication, network communication, platform interaction, code quality, resilience against reverse engineering, and privacy. It provides a baseline for mobile app security during design, development, and testing of iOS and Android apps.",
+    "version": "2.0",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/OWASP-MASVS.json"
+  },
+  {
+    "name": "OWASP Top 10 for Large Language Model Applications (2025)",
+    "code": "OWASP-LLM-Top10-2025",
+    "authority": "OWASP",
+    "description": "The OWASP Top 10 for LLM Applications highlights the most critical security risks associated with deploying and managing large language models. The 2025 edition covers risks from prompt injection and sensitive information disclosure to supply chain vulnerabilities and unbounded resource consumption.",
+    "version": "2025",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/OWASP-Top10-LLM-2025.json"
+  },
+  {
+    "name": "OWASP API Security Top 10 (2023)",
+    "code": "OWASP-API-Top10-2023",
+    "authority": "OWASP",
+    "description": "The OWASP API Security Top 10 represents the most critical security risks to APIs. The 2023 edition reflects the evolving API threat landscape, combining previously separate categories and introducing new risks such as Unrestricted Access to Sensitive Business Flows and Unsafe Consumption of APIs.",
+    "version": "2023",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/OWASP-API-Top10-2023.json"
+  },
+  {
+    "name": "OWASP Software Assurance Maturity Model (SAMM) 2.0",
+    "code": "OWASP-SAMM-2.0",
+    "authority": "OWASP",
+    "description": "OWASP SAMM is an open framework to help organizations formulate and implement a strategy for software security. Built around 5 business functions (Governance, Design, Implementation, Verification, Operations), each containing 3 security practices with 2 streams at 3 maturity levels, it provides a measurable way to analyze and improve software security posture.",
+    "version": "2.0",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/OWASP-SAMM.json"
   }
 ]
